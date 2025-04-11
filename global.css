@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', 'Fraunces';
+}
+
+:root{
+    --Green-500: hsl(158, 36%, 37%);
+    --White: hsl(0, 0%, 100%);
+    --Cream: hsl(30, 38%, 92%);
+    --Grey: hsl(228, 12%, 48%);
+    --Green-700: hsl(158, 63%, 15%);
+}
